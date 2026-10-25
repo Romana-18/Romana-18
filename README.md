@@ -23,6 +23,8 @@
 - 📊 Exploring data analysis, predictive modeling, and intelligent systems.
 - 💻 Learning by building practical projects.
 - 🌱 Always improving my problem-solving and software development skills.
+-https://site-d31bdb84f1a84af8872db0d18b2331e7.freebuff.page
+
 
 ---
 
